@@ -29,7 +29,7 @@
   Open the folder in a terminal and run the command ' node index.js'.
   
   # Contributing 
-  If you wish to contribute to the project, write better code than I wrote.
+  If you wish to contribute to the project, please email me.
   
   # Contact Information 
   * GitHub Username: azm89
