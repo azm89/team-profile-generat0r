@@ -3,12 +3,14 @@
   # team-profile-generat0r
   
   # Description
-  A team profile generator built with Javascript. It will prompt the user for relevant information and apply it to the markdown template, which it then write to a index.html file in the 'dist' folder.
+  A team profile generator built with Javascript, HTML, and NODE.js. It will prompt the user for relevant information for a manager, any engineers or interns, applies it to the markdown template, which it then writes to a index.html file in the 'dist' folder.
 
   
 
 
-https://user-images.githubusercontent.com/25498967/184037909-f662de41-49f2-4ec2-9638-6bd631dc7fa1.mp4
+  # Demonstration
+
+  https://user-images.githubusercontent.com/25498967/184037909-f662de41-49f2-4ec2-9638-6bd631dc7fa1.mp4
 
 
 
